@@ -1,1 +1,1 @@
-# afzalkarimov
+# web project
